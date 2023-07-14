@@ -1,0 +1,8 @@
+apiList = {
+  "index" : "sduoooh.me",
+  "CCT" : "sduoooh.me/CCT",
+  "collection" : "sduoooh.me/postman",
+  "upload" : "upload.sduoooh.me",
+  "todo" : "sduoooh.me/DotMeTodo/",
+  "apiList" : "api.sduoooh.me/index.json",
+}
